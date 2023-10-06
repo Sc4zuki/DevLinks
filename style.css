@@ -39,7 +39,9 @@ body {
   padding: 24px;
 }
 #profile img {
-  width: 112px;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
 }
 #profile p {
   font-weight: 500;
